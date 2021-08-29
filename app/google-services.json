@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242547498987",
+    "project_id": "vehicle-controller-a4901",
+    "storage_bucket": "vehicle-controller-a4901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242547498987:android:8ab2df9a9114b1924403ae",
+        "android_client_info": {
+          "package_name": "com.example.vehiclecontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242547498987-1imtn9ci2o5uarfpjc2knc94ns7c2siq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLtPVNrXohOxoXF-DWDVcNIL01TwYENg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242547498987-1imtn9ci2o5uarfpjc2knc94ns7c2siq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
